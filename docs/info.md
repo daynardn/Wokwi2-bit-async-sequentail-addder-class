@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+By utilizing 2 advanced blocks, (A d latch), and modifying the inputs we can have it a counter that operates over the clock.
 
 ## How to test
 
-Explain how to use your project
+Apply high voltage to JK (input 1), and a clock signal (may be internal nobody knows), and the outputs should oscillate at a rate of 2 hz.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+2 leds (+resistor) and a power supply
